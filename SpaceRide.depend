@@ -564,26 +564,26 @@
 	"begin_code.h"
 	"close_code.h"
 
-1399665083 source:d:\programming\c++\projects\space ride\spaceride\main.cpp
+1456755599 source:d:\programming\c++\projects\space ride\spaceride\main.cpp
 	"main.h"
 	<ctime>
 	<windows.h>
 
-1399667576 d:\programming\c++\projects\space ride\spaceride\main.h
+1456755599 d:\programming\c++\projects\space ride\spaceride\main.h
 	"CPU_Objects.h"
 	<SDL_ttf.h>
 
-1397415824 d:\programming\c++\projects\space ride\spaceride\cpu_objects.h
+1456755596 d:\programming\c++\projects\space ride\spaceride\cpu_objects.h
 	"BG_Objects.h"
 
-1397768160 d:\programming\c++\projects\space ride\spaceride\bg_objects.h
+1456755596 d:\programming\c++\projects\space ride\spaceride\bg_objects.h
 	"Objects.h"
 
-1399667710 d:\programming\c++\projects\space ride\spaceride\objects.h
+1456755596 d:\programming\c++\projects\space ride\spaceride\objects.h
 	"Gamepad.h"
 	<list>
 
-1399664191 d:\programming\c++\projects\space ride\spaceride\vaf.h
+1456755596 d:\programming\c++\projects\space ride\spaceride\vaf.h
 	"Timer.h"
 	"uFMOD.h"
 	<SDL_image.h>
@@ -593,10 +593,10 @@
 	<algorithm>
 	<vector>
 
-1396806633 d:\programming\c++\projects\space ride\spaceride\timer.h
+1456755596 d:\programming\c++\projects\space ride\spaceride\timer.h
 	<SDL.h>
 
-1396042901 d:\programming\c++\projects\space ride\spaceride\ufmod.h
+1456755600 d:\programming\c++\projects\space ride\spaceride\ufmod.h
 	<cstdio>
 	<cstdlib>
 	<cstring>
@@ -606,7 +606,7 @@
 1387060448 d:\programming\c++\projects\space ride\spaceride\projectiles.h
 	"Objects.h"
 
-1399584537 d:\programming\c++\projects\space ride\spaceride\gamepad.h
+1456755596 d:\programming\c++\projects\space ride\spaceride\gamepad.h
 	<XInput.h>
 	<windows.h>
 	"VAF.h"
